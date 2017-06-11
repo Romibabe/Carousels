@@ -1,4 +1,17 @@
 
+.carousel .carousel-item{
+
+height:400px;
+width:400px;
+}
+
+
+
+.carousel .carousel-slider .carousel-item{
+
+height:400px;
+width:400px;
+}
 
 .carousel .carousel-item>img{
 
